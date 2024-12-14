@@ -1,0 +1,5 @@
+## String ifadeler "" ve `` içinde yazılabilir. '' izin verilmez! 
+
+## Packages - Go kodu yazılırken tüm kodları paketlere ( packages ) böleriz.
+
+## package main, build alındıktan sonra paketin giriş noktasını belirler.
